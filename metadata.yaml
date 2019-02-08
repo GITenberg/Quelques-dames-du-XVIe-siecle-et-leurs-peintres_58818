@@ -1,0 +1,30 @@
+_repo: Quelques-dames-du-XVIe-siecle-et-leurs-peintres_58818
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Bouchot, Henri
+    aliases:
+    - Bouchot, Henri François Xavier Marie
+    - Bouchot, Henri Francois Xavier Marie
+    birthdate: 1849
+    deathdate: 1906
+    gutenberg_agent_id: '42962'
+    url: http://www.gutenberg.org/2009/agents/42962
+description: ''
+gutenberg_bookshelf:
+- FR Chroniques
+- FR Nouveautés
+- FR Peinture
+- FR Beaux-Arts
+gutenberg_issued: '2019-02-03'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '58818'
+language: fr
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- GITenberg
+title: Quelques dames du XVIe siècle et leurs peintres
+url: http://www.gutenberg.org/ebooks/58818
