@@ -1,5 +1,8 @@
 _repo: Quelques-dames-du-XVIe-siecle-et-leurs-peintres_58818
 _version: 0.1.0
+covers:
+- cover_type: archival
+  image_path: 58818-h/images/cover.jpg
 creator:
   author:
     agent_name: Bouchot, Henri
@@ -11,6 +14,8 @@ creator:
     gutenberg_agent_id: '42962'
     url: http://www.gutenberg.org/2009/agents/42962
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/58818#Quelques-dames-du-XVIe-siecle-et-leurs-peintres
 gutenberg_bookshelf:
 - FR Chroniques
 - FR Nouveautés
